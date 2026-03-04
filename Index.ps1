@@ -5,7 +5,7 @@ $repo   = "corvipaws-hub/ReMiA"
 $branch = "main"
 $base   = "https://cdn.jsdelivr.net/gh/$repo@$branch"  # faster than raw.githubusercontent
 
-$title = "Re-Made in Abyss (Content-Safe Fan Edit)"
+$title = "Made in Abyss (Content-Safe Fan Edit)"
 $description = "Unofficial fan edit. Intended for mature audiences only (17+). Please support the official release.
 
 Manga edit of Made in Abyss where sexual content related to underaged characters has been drawn over, and text modified. Edits are subtle and kept to a minimum. Nothing plot relevant is changed, edits are made for child nudity and perceive fetishistic content (e.g. urine, exhibitionism, bondage). 
@@ -13,7 +13,7 @@ Manga edit of Made in Abyss where sexual content related to underaged characters
 Note: This edit does not remove gore, or substantially plot relevant sexual content."
 $artist = "Akihito Tsukushi (original) / fan edit"
 $author = "Akihito Tsukushi"
-$group  = "/r/ReMiA"
+$group  = "ReMiA"
 $outFile = "index.json"
 # ====================
 
