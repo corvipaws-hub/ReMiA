@@ -5,446 +5,130 @@
     "author":  "Akihito Tsukushi",
     "chapters":  {
                      "1":  {
-                               "title":  "Chapter_1",
+                               "title":  "Chapter 1",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_001/001.jpeg",
-                                                          "chapter_001/002.jpeg",
-                                                          "chapter_001/003.jpeg",
-                                                          "chapter_001/004.jpeg",
-                                                          "chapter_001/005.jpeg",
-                                                          "chapter_001/006.jpeg",
-                                                          "chapter_001/007.jpeg",
-                                                          "chapter_001/008.jpeg",
-                                                          "chapter_001/009.jpeg",
-                                                          "chapter_001/010.jpeg",
-                                                          "chapter_001/011.jpeg",
-                                                          "chapter_001/012.jpeg",
-                                                          "chapter_001/013.jpeg",
-                                                          "chapter_001/014.jpeg",
-                                                          "chapter_001/015.jpeg",
-                                                          "chapter_001/016.jpeg",
-                                                          "chapter_001/017.jpeg",
-                                                          "chapter_001/018.jpeg",
-                                                          "chapter_001/019.jpeg",
-                                                          "chapter_001/020.jpeg",
-                                                          "chapter_001/021.jpeg",
-                                                          "chapter_001/022.jpeg",
-                                                          "chapter_001/023.jpeg",
-                                                          "chapter_001/024.jpeg",
-                                                          "chapter_001/025.jpeg",
-                                                          "chapter_001/026.jpeg",
-                                                          "chapter_001/027.jpeg",
-                                                          "chapter_001/028.jpeg",
-                                                          "chapter_001/029.jpeg",
-                                                          "chapter_001/030.jpeg",
-                                                          "chapter_001/031.jpeg",
-                                                          "chapter_001/032.jpeg",
-                                                          "chapter_001/033.jpeg",
-                                                          "chapter_001/034.jpeg",
-                                                          "chapter_001/035.jpeg"
+                                                          "chapter_001"
                                                       ]
                                           }
                            },
                      "2":  {
-                               "title":  "Chapter_2",
+                               "title":  "Chapter 2",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_002/036.jpeg",
-                                                          "chapter_002/037.jpeg",
-                                                          "chapter_002/038.jpeg",
-                                                          "chapter_002/039.jpeg",
-                                                          "chapter_002/040.jpeg",
-                                                          "chapter_002/041.jpeg",
-                                                          "chapter_002/042.jpeg",
-                                                          "chapter_002/043.jpeg",
-                                                          "chapter_002/044.jpeg",
-                                                          "chapter_002/045.jpeg",
-                                                          "chapter_002/046.jpeg",
-                                                          "chapter_002/047.jpeg",
-                                                          "chapter_002/048.jpeg",
-                                                          "chapter_002/049.jpeg",
-                                                          "chapter_002/050.jpeg",
-                                                          "chapter_002/051.jpeg",
-                                                          "chapter_002/052.jpeg",
-                                                          "chapter_002/053.jpeg",
-                                                          "chapter_002/054.jpeg",
-                                                          "chapter_002/055.jpeg"
+                                                          "chapter_002"
                                                       ]
                                           }
                            },
                      "3":  {
-                               "title":  "Chapter_3",
+                               "title":  "Chapter 3",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_003/056.jpeg",
-                                                          "chapter_003/057.jpeg",
-                                                          "chapter_003/058.jpeg",
-                                                          "chapter_003/059.jpeg",
-                                                          "chapter_003/060.jpeg",
-                                                          "chapter_003/061.jpeg",
-                                                          "chapter_003/062.jpeg",
-                                                          "chapter_003/063.jpeg",
-                                                          "chapter_003/064.jpeg",
-                                                          "chapter_003/065.jpeg",
-                                                          "chapter_003/066.jpeg",
-                                                          "chapter_003/067.jpeg",
-                                                          "chapter_003/068.jpeg",
-                                                          "chapter_003/069.jpeg"
+                                                          "chapter_003"
                                                       ]
                                           }
                            },
                      "4":  {
-                               "title":  "Chapter_4",
+                               "title":  "Chapter 4",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_004/070.jpeg",
-                                                          "chapter_004/071.jpeg",
-                                                          "chapter_004/072.jpeg",
-                                                          "chapter_004/073.jpeg",
-                                                          "chapter_004/074.jpeg",
-                                                          "chapter_004/075.jpeg",
-                                                          "chapter_004/076.jpeg",
-                                                          "chapter_004/077.jpeg",
-                                                          "chapter_004/078.jpeg",
-                                                          "chapter_004/079.jpeg",
-                                                          "chapter_004/080.jpeg",
-                                                          "chapter_004/081.jpeg",
-                                                          "chapter_004/082.jpeg",
-                                                          "chapter_004/083.jpeg",
-                                                          "chapter_004/084.jpeg",
-                                                          "chapter_004/085.jpeg",
-                                                          "chapter_004/086.jpeg",
-                                                          "chapter_004/087.jpeg",
-                                                          "chapter_004/088.jpeg",
-                                                          "chapter_004/089.jpeg",
-                                                          "chapter_004/090.jpeg",
-                                                          "chapter_004/091.jpeg"
+                                                          "chapter_004"
                                                       ]
                                           }
                            },
                      "5":  {
-                               "title":  "Chapter_5",
+                               "title":  "Chapter 5",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_005/092.jpeg",
-                                                          "chapter_005/093.jpeg",
-                                                          "chapter_005/094.jpeg",
-                                                          "chapter_005/095.jpeg",
-                                                          "chapter_005/096.jpeg",
-                                                          "chapter_005/097.jpeg",
-                                                          "chapter_005/098.jpeg",
-                                                          "chapter_005/099.jpeg",
-                                                          "chapter_005/100.jpeg",
-                                                          "chapter_005/101.jpeg",
-                                                          "chapter_005/102.jpeg",
-                                                          "chapter_005/103.jpeg",
-                                                          "chapter_005/104.jpeg",
-                                                          "chapter_005/105.jpeg",
-                                                          "chapter_005/106.jpeg",
-                                                          "chapter_005/107.jpeg",
-                                                          "chapter_005/108.jpeg",
-                                                          "chapter_005/109.jpeg",
-                                                          "chapter_005/110.jpeg",
-                                                          "chapter_005/111.jpeg",
-                                                          "chapter_005/112.jpeg",
-                                                          "chapter_005/113.jpeg"
+                                                          "chapter_005"
                                                       ]
                                           }
                            },
                      "6":  {
-                               "title":  "Chapter_6",
+                               "title":  "Chapter 6",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_006/114.jpeg",
-                                                          "chapter_006/115.jpeg",
-                                                          "chapter_006/116.jpeg",
-                                                          "chapter_006/117.jpeg",
-                                                          "chapter_006/118.jpeg",
-                                                          "chapter_006/119.jpeg",
-                                                          "chapter_006/120.jpeg",
-                                                          "chapter_006/121.jpeg",
-                                                          "chapter_006/122.jpeg",
-                                                          "chapter_006/123.jpeg"
+                                                          "chapter_006"
                                                       ]
                                           }
                            },
                      "7":  {
-                               "title":  "Chapter_7",
+                               "title":  "Chapter 7",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_007/124.jpeg",
-                                                          "chapter_007/125.jpeg",
-                                                          "chapter_007/126.jpeg",
-                                                          "chapter_007/127.jpeg",
-                                                          "chapter_007/128.jpeg",
-                                                          "chapter_007/129.jpeg",
-                                                          "chapter_007/130.jpeg",
-                                                          "chapter_007/131.jpeg",
-                                                          "chapter_007/132.jpeg",
-                                                          "chapter_007/133.jpeg",
-                                                          "chapter_007/134.jpeg",
-                                                          "chapter_007/135.jpeg",
-                                                          "chapter_007/136.jpeg",
-                                                          "chapter_007/137.jpeg",
-                                                          "chapter_007/138.jpeg",
-                                                          "chapter_007/139.jpeg",
-                                                          "chapter_007/140.jpeg",
-                                                          "chapter_007/141.jpeg",
-                                                          "chapter_007/142.jpg",
-                                                          "chapter_007/143.jpeg"
+                                                          "chapter_007"
                                                       ]
                                           }
                            },
                      "8":  {
-                               "title":  "Chapter_8",
+                               "title":  "Chapter 8",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_008/144.jpeg",
-                                                          "chapter_008/145.jpeg",
-                                                          "chapter_008/146.jpeg",
-                                                          "chapter_008/147.jpeg",
-                                                          "chapter_008/148.jpeg",
-                                                          "chapter_008/149.jpeg",
-                                                          "chapter_008/150.jpeg",
-                                                          "chapter_008/151.jpeg",
-                                                          "chapter_008/152.jpeg",
-                                                          "chapter_008/153.jpeg",
-                                                          "chapter_008/154.jpeg",
-                                                          "chapter_008/155.jpeg",
-                                                          "chapter_008/156.jpeg",
-                                                          "chapter_008/157.jpeg",
-                                                          "chapter_008/158.jpeg",
-                                                          "chapter_008/159.jpeg",
-                                                          "chapter_008/160.jpeg",
-                                                          "chapter_008/161.jpeg",
-                                                          "chapter_008/162.jpeg",
-                                                          "chapter_008/163.jpeg",
-                                                          "chapter_008/164.jpeg",
-                                                          "chapter_008/165.jpeg",
-                                                          "chapter_008/166.jpeg",
-                                                          "chapter_008/167.jpeg",
-                                                          "chapter_008/168.jpeg",
-                                                          "chapter_008/169.jpeg",
-                                                          "chapter_008/170.jpeg"
+                                                          "chapter_008"
                                                       ]
                                           }
                            },
                      "9":  {
-                               "title":  "Chapter_9",
+                               "title":  "Chapter 9",
                                "groups":  {
                                               "Alt":  [
-                                                          "chapter_009/001.jpeg",
-                                                          "chapter_009/002.jpeg",
-                                                          "chapter_009/003.jpeg",
-                                                          "chapter_009/004.jpeg",
-                                                          "chapter_009/005.jpeg",
-                                                          "chapter_009/006.jpeg",
-                                                          "chapter_009/007.jpeg",
-                                                          "chapter_009/008.jpeg",
-                                                          "chapter_009/009.jpeg",
-                                                          "chapter_009/010.jpeg",
-                                                          "chapter_009/011.jpeg",
-                                                          "chapter_009/012.jpeg",
-                                                          "chapter_009/013.jpeg",
-                                                          "chapter_009/014.jpeg",
-                                                          "chapter_009/015.jpeg",
-                                                          "chapter_009/016.jpeg",
-                                                          "chapter_009/017.jpeg",
-                                                          "chapter_009/018.jpeg",
-                                                          "chapter_009/019.jpeg",
-                                                          "chapter_009/020.jpeg",
-                                                          "chapter_009/021.jpeg",
-                                                          "chapter_009/022.jpeg",
-                                                          "chapter_009/023.jpeg",
-                                                          "chapter_009/024.jpeg",
-                                                          "chapter_009/025.jpeg",
-                                                          "chapter_009/026.jpeg",
-                                                          "chapter_009/027.jpeg"
+                                                          "chapter_009"
                                                       ]
                                           }
                            },
                      "10":  {
-                                "title":  "Chapter_10",
+                                "title":  "Chapter 10",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_010/028.jpeg",
-                                                           "chapter_010/029.jpg",
-                                                           "chapter_010/030.jpeg",
-                                                           "chapter_010/031.jpeg",
-                                                           "chapter_010/032.jpeg",
-                                                           "chapter_010/033.jpeg",
-                                                           "chapter_010/034.jpeg",
-                                                           "chapter_010/035.jpeg",
-                                                           "chapter_010/036.jpeg",
-                                                           "chapter_010/037.jpeg",
-                                                           "chapter_010/038.jpeg",
-                                                           "chapter_010/039.jpeg",
-                                                           "chapter_010/040.jpeg",
-                                                           "chapter_010/041.jpeg",
-                                                           "chapter_010/042.jpeg",
-                                                           "chapter_010/043.jpeg",
-                                                           "chapter_010/044.jpeg",
-                                                           "chapter_010/045.jpeg",
-                                                           "chapter_010/046.jpeg",
-                                                           "chapter_010/047.jpeg",
-                                                           "chapter_010/048.jpeg",
-                                                           "chapter_010/049.jpeg"
+                                                           "chapter_010"
                                                        ]
                                            }
                             },
                      "11":  {
-                                "title":  "Chapter_11",
+                                "title":  "Chapter 11",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_011/050.jpeg",
-                                                           "chapter_011/051.jpeg",
-                                                           "chapter_011/052.jpeg",
-                                                           "chapter_011/053.jpeg",
-                                                           "chapter_011/054.jpeg",
-                                                           "chapter_011/055.jpeg",
-                                                           "chapter_011/056.jpeg",
-                                                           "chapter_011/057.jpeg",
-                                                           "chapter_011/058.jpeg",
-                                                           "chapter_011/059.jpeg",
-                                                           "chapter_011/060.jpeg",
-                                                           "chapter_011/061.jpeg",
-                                                           "chapter_011/062.jpg",
-                                                           "chapter_011/063.jpg",
-                                                           "chapter_011/064.jpg"
+                                                           "chapter_011"
                                                        ]
                                            }
                             },
                      "12":  {
-                                "title":  "Chapter_12",
+                                "title":  "Chapter 12",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_012/065.jpeg",
-                                                           "chapter_012/066.jpeg",
-                                                           "chapter_012/067.jpeg",
-                                                           "chapter_012/068.jpeg",
-                                                           "chapter_012/069.jpeg",
-                                                           "chapter_012/070.jpeg",
-                                                           "chapter_012/071.jpeg",
-                                                           "chapter_012/072.jpeg",
-                                                           "chapter_012/073.jpeg",
-                                                           "chapter_012/074.jpeg",
-                                                           "chapter_012/075.jpeg",
-                                                           "chapter_012/076.jpeg",
-                                                           "chapter_012/077.jpeg",
-                                                           "chapter_012/078.jpeg",
-                                                           "chapter_012/079.jpeg",
-                                                           "chapter_012/080.jpeg",
-                                                           "chapter_012/081.jpeg"
+                                                           "chapter_012"
                                                        ]
                                            }
                             },
                      "13":  {
-                                "title":  "Chapter_13",
+                                "title":  "Chapter 13",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_013/082.jpeg",
-                                                           "chapter_013/083.jpeg",
-                                                           "chapter_013/084.jpeg",
-                                                           "chapter_013/085.jpeg",
-                                                           "chapter_013/086.jpeg",
-                                                           "chapter_013/087.jpeg",
-                                                           "chapter_013/088.jpeg",
-                                                           "chapter_013/089.jpeg",
-                                                           "chapter_013/090.jpeg",
-                                                           "chapter_013/091.jpeg",
-                                                           "chapter_013/092.jpeg",
-                                                           "chapter_013/093.jpeg",
-                                                           "chapter_013/094.jpg",
-                                                           "chapter_013/095.jpeg",
-                                                           "chapter_013/096.jpeg",
-                                                           "chapter_013/097.jpeg",
-                                                           "chapter_013/098.jpeg",
-                                                           "chapter_013/099.jpeg"
+                                                           "chapter_013"
                                                        ]
                                            }
                             },
                      "14":  {
-                                "title":  "Chapter_14",
+                                "title":  "Chapter 14",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_014/100.jpeg",
-                                                           "chapter_014/101.jpeg",
-                                                           "chapter_014/102.jpeg",
-                                                           "chapter_014/103.jpeg",
-                                                           "chapter_014/104.jpeg",
-                                                           "chapter_014/105.jpeg",
-                                                           "chapter_014/106.jpeg",
-                                                           "chapter_014/107.jpeg",
-                                                           "chapter_014/108.jpeg",
-                                                           "chapter_014/109.jpeg",
-                                                           "chapter_014/110.jpeg",
-                                                           "chapter_014/111.jpeg",
-                                                           "chapter_014/112.jpeg",
-                                                           "chapter_014/113.jpeg",
-                                                           "chapter_014/114.jpeg",
-                                                           "chapter_014/115.jpeg",
-                                                           "chapter_014/116.jpeg",
-                                                           "chapter_014/117.jpeg"
+                                                           "chapter_014"
                                                        ]
                                            }
                             },
                      "15":  {
-                                "title":  "Chapter_15",
+                                "title":  "Chapter 15",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_015/118.jpeg",
-                                                           "chapter_015/119.jpeg",
-                                                           "chapter_015/120.jpeg",
-                                                           "chapter_015/121.jpeg",
-                                                           "chapter_015/122.jpeg",
-                                                           "chapter_015/123.jpeg",
-                                                           "chapter_015/124.jpeg",
-                                                           "chapter_015/125.jpeg",
-                                                           "chapter_015/126.jpeg",
-                                                           "chapter_015/127.jpeg",
-                                                           "chapter_015/128.jpeg",
-                                                           "chapter_015/129.jpeg",
-                                                           "chapter_015/130.jpeg",
-                                                           "chapter_015/131.jpg",
-                                                           "chapter_015/132.jpeg",
-                                                           "chapter_015/133.jpeg",
-                                                           "chapter_015/134.jpeg",
-                                                           "chapter_015/135.jpeg",
-                                                           "chapter_015/136.jpeg",
-                                                           "chapter_015/137.jpeg",
-                                                           "chapter_015/138.jpeg",
-                                                           "chapter_015/139.jpeg",
-                                                           "chapter_015/140.jpeg",
-                                                           "chapter_015/141.jpeg",
-                                                           "chapter_015/142.jpeg"
+                                                           "chapter_015"
                                                        ]
                                            }
                             },
                      "16":  {
-                                "title":  "Chapter_16",
+                                "title":  "Chapter 16",
                                 "groups":  {
                                                "Alt":  [
-                                                           "chapter_016/143.jpeg",
-                                                           "chapter_016/144.jpeg",
-                                                           "chapter_016/145.jpeg",
-                                                           "chapter_016/146.jpeg",
-                                                           "chapter_016/147.jpeg",
-                                                           "chapter_016/148.jpeg",
-                                                           "chapter_016/149.jpeg",
-                                                           "chapter_016/150.jpeg",
-                                                           "chapter_016/151.jpeg",
-                                                           "chapter_016/152.jpeg",
-                                                           "chapter_016/153.jpeg",
-                                                           "chapter_016/154.jpeg",
-                                                           "chapter_016/155.jpeg",
-                                                           "chapter_016/156.jpeg",
-                                                           "chapter_016/157.jpeg",
-                                                           "chapter_016/158.jpeg",
-                                                           "chapter_016/159.jpeg",
-                                                           "chapter_016/160.jpeg",
-                                                           "chapter_016/161.jpeg",
-                                                           "chapter_016/162.jpeg"
+                                                           "chapter_016"
                                                        ]
                                            }
                             }
